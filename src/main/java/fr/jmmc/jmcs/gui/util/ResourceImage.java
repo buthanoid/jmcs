@@ -42,6 +42,7 @@ public enum ResourceImage {
     DISABLED_INFO_ICON("disabled_info_icon.png"),
     INFO_ICON("info_icon.png"),
     WARNING_ICON("warning_icon.png"),
+    WARNING_ICON_16("warning_icon_16.png"),
     ERROR_ICON("error-icon.png"),
     UP_ARROW("up_arrow.png"),
     DOWN_ARROW("down_arrow.png");
